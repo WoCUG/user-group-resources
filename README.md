@@ -1,2 +1,3 @@
-# user-group-resources
-Repo with the link of every single work done and put online by the Wikimedia Community User Group Cameroon. It will be a curated list of the UG resources to share with others.
+# Curated list of resources by Wikimedia Community User Group Cameroon.
+
+Repository consists of curated list of links of every single work done and put online by the Wikimedia Community User Group Cameroon. This will be a very useful resource for newbies, interested persons and more...
